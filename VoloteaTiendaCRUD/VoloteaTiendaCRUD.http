@@ -1,0 +1,6 @@
+@VoloteaTiendaCRUD_HostAddress = http://localhost:5186
+
+GET {{VoloteaTiendaCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
